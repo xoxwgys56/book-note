@@ -2,7 +2,7 @@
 
 [yes24](http://www.yes24.com/Product/Goods/91165789)
 
-![book cover](http://image.yes24.com/goods/91165789/XL)
+<center><img src="http://image.yes24.com/goods/91165789/XL" alt="book cover"></center>
 
 ## contents
 
